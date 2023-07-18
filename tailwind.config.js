@@ -19,7 +19,7 @@ export default {
         colorOne: "#f6eff4",
         colorTwo: "#fbf0ef",
         colorThree: "#f1fcf0",
-        colorfour: "#fcf8ef",
+        colorFour: "#fcf8ef",
         gradient: "linear-gradient(rgb(56, 194, 166), rgb(124, 83, 151) )",
       },
     },
