@@ -1,4 +1,3 @@
-import React from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 import { AiOutlineAppstoreAdd } from "react-icons/ai";
 import { BsPlus } from "react-icons/bs";

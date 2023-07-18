@@ -1,4 +1,3 @@
-import React from "react";
 import { GiHamburger } from "react-icons/gi";
 import Admin from "../../Assets/user.jpg";
 import { AiFillHome } from "react-icons/ai";
